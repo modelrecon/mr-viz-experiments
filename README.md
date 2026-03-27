@@ -12,8 +12,9 @@ Quantization Support: Seamlessly works with 4-bit/8-bit quantized models using `
 Interactive**: Generates interactive Plotly figures.
 
 
-See `demo_notebook.ipynb` <a target="_blank" href="https://colab.research.google.com/github/modelrecon/mr-viz-experiments/edit/main/demo_notebook.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> for a complete example.
+See `demo_notebook.ipynb` <a target="_blank" href="https://colab.research.google.com/github/https://raw.githubusercontent.com/modelrecon/mr-viz-experiments/refs/heads/main/demo_notebook.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a> for a complete example.
 
 ```python
 import torch
