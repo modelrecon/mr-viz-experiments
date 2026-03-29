@@ -38,7 +38,7 @@ class TransformerVisualizer:
         self.model.eval()
         inputs = self.tokenizer(text_input, return_tensors="pt").to(self.device)
         
-        from .hook_manager import HookManager
+        from hook_manager import HookManager
         self.hook_manager = HookManager(self.model)
         
         # Identify layers to hook
